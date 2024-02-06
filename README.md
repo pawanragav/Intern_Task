@@ -1,16 +1,23 @@
-# intern_task
+# Intern_Task
 
-A new Flutter project.
+# Simple Flutter Form Submission App
 
-## Getting Started
+Consists of 2 Screens
 
-This project is a starting point for a Flutter application.
+First Screen:
+* The first screen displays a single button labeled "Go to Second Screen".
+* Upon tapping this button, the app navigates to the second screen.
+Second Screen:
+* The second screen displays a form with two fields: Name and Email.
+* Users are required to input their name and email address into these fields.
+* Basic form validation is implemented to ensure both fields are filled before submission.
+* Upon successful validation and submission, an AlertDialog pops up confirming the successful completion of the form.
+* The app uses Flutter's state management to handle the form state.
+* It provides a simple and clean user interface with Material Design components like AppBar, TextFields, Buttons, and AlertDialog.
+* The email field validation checks if the entered email follows a valid format using a regular expression.
 
-A few resources to get you started if this is your first Flutter project:
+#Screenshots of the App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/images/S1.png" width="250" height="120">
+<img src="assets/images/S2.png" width="250" height="120"> 
+<img src="assets/images/S3.png" width="250" height="120"> 
