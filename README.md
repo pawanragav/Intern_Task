@@ -4,10 +4,9 @@
 
 Consists of 2 Screens
 
-First Screen:
+
 * The first screen displays a single button labeled "Go to Second Screen".
 * Upon tapping this button, the app navigates to the second screen.
-Second Screen:
 * The second screen displays a form with two fields: Name and Email.
 * Users are required to input their name and email address into these fields.
 * Basic form validation is implemented to ensure both fields are filled before submission.
