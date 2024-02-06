@@ -15,7 +15,7 @@ Consists of 2 Screens
 * It provides a simple and clean user interface with Material Design components like AppBar, TextFields, Buttons, and AlertDialog.
 * The email field validation checks if the entered email follows a valid format using a regular expression.
 
-#Screenshots of the App
+# Screenshots of the App
 
 <img src="assets/images/S1.png" width="100" height="220">
 <img src="assets/images/S2.png" width="100" height="220"> 
