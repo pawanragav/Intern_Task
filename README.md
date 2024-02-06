@@ -17,6 +17,6 @@ Consists of 2 Screens
 
 #Screenshots of the App
 
-<img src="assets/images/S1.png" width="150" height="220">
-<img src="assets/images/S2.png" width="150" height="220"> 
-<img src="assets/images/S3.png" width="150" height="220"> 
+<img src="assets/images/S1.png" width="100" height="220">
+<img src="assets/images/S2.png" width="100" height="220"> 
+<img src="assets/images/S3.png" width="100" height="220"> 
